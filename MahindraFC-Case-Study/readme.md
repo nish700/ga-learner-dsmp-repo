@@ -18,3 +18,21 @@ what type of service did the customer came for, etc…
 customer took and what kind of material was used to service, Labor information
 and the cost for the service, Plant and plant name where the customer took the
 service.
+
+Objective
+
+Geolocation Based Customer Analysis:
+
+The idea is to explore how various factors like car make & model, time and type of service etc.
+vary with location. Since the servicing industry is local in nature, this kind of an analysis could
+possibly render some really interesting business insights.
+
+Market Segmentation:
+
+Market segmentation is the process of dividing a market of potential customers into internally
+homogeneous and mutually heterogeneous groups or segments, based on different
+characteristics captured in the data. Groups created through such a segmentation exercise
+many times reveal behavioral patterns which are different from generally accepted segments by
+the business. The exercise is broadly known as “clustering” and is aimed at finding the
+consumers who will respond similarly to various stimuli by detecting underlying behavior
+patterns .
