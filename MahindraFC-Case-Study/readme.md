@@ -27,6 +27,9 @@ The idea is to explore how various factors like car make & model, time and type 
 vary with location. Since the servicing industry is local in nature, this kind of an analysis could
 possibly render some really interesting business insights.
 
+Furthermore, this analysis will enable us to formulate more concrete machine learning problems.
+From the data at hand it is possible to extract insights about customer behaviour.
+
 Market Segmentation:
 
 Market segmentation is the process of dividing a market of potential customers into internally
@@ -36,3 +39,7 @@ many times reveal behavioral patterns which are different from generally accepte
 the business. The exercise is broadly known as “clustering” and is aimed at finding the
 consumers who will respond similarly to various stimuli by detecting underlying behavior
 patterns .
+
+Though clustering falls under a Machine Learning problem category called unsupervised
+learning, which requires extensive efforts, it is possible to carry out a visual analysis in a
+relatively short timespan.
